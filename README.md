@@ -1,7 +1,11 @@
-<h1 align="center">Zingen</h1>
+<h1 align="center">Snitap</h1>
 
 <p align="center">
-Este projeto faz parte do curso Fullstack da Rocketseat e trabalha o conceitos de animações em CSS.
+Este projeto faz parte do curso Fullstack da Rocketseat e trabalha o conceitos de animações em CSS como:
+
+- CSS Animations;
+- CSS Transitions;
+- CSS Functions;
 
 </p>
 
